@@ -1,0 +1,11 @@
+<AppUpdater>
+  <update>
+    <latestVersion>1.2.4</latestVersion>
+    <latestVersionCode>8</latestVersionCode>
+    <url>https://rootguides.000webhostapp.com/Updates/SM v1.2.4.apk</url>
+    <releaseNotes>1. Added Ads and firebase.
+    2. Signature changings wont happen from next time.
+Note : If the update is not being installed then first uninstall the previous version and then install the new one.
+    </releaseNotes>
+  </update>
+</AppUpdater>
