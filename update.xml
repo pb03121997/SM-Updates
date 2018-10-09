@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.2.5</latestVersion>
-    <latestVersionCode>9</latestVersionCode>
+    <latestVersion>1.2.6</latestVersion>
+    <latestVersionCode>10</latestVersionCode>
     <url>https://github.com/pb03121997/SM-Updates/raw/master/SM%20v1.2.5.apk</url>
     <releaseNotes>1. Added Ads and firebase.
     2. Signature changings wont happen from next time.
