@@ -1,1 +1,4 @@
-'url':'www.reddit.com'
+[
+  {"post_id": "1", "text": "Comment 1"},
+  {"post_id": "2", "text": "Comment 2"}
+]
